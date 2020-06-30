@@ -8,10 +8,3 @@ for (const char of sentence) {
   
 }
 
-
-// (let delay = 50)
-// for (delay <= sentence.length){
-//   delay += 50;
-// }
-
-// // replace 500 
